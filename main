@@ -1,0 +1,16 @@
+
+def main():
+
+    print("program starting")
+    print("name of the script:",__name__)
+    print("This is the main function were i will implement the logic of the program")
+
+    # example student
+    student=[]
+
+    students.append(student(jalal",1001))
+    students.append(student("kamal",1002))
+
+
+if __name__ == "__main__"
+main()
