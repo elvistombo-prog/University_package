@@ -1,1 +1,4 @@
+"""Course module represents courses"""
 
+class Course():
+""
